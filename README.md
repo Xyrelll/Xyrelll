@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgithub&psig=AOvVaw2t1gOJ0xYxcpImCg-quK3A&ust=1761632625706000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiW24Tfw5ADFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgithub&psig=AOvVaw2t1gOJ0xYxcpImCg-quK3A&ust=1761632625706000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiW24Tfw5ADFQAAAAAdAAAAABAE)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDViaWNnMzZpMHo5ZTFoeDJpOG5zZDh6aTJ2cHNoMzN1bzFiOWJxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)"  />
 
 ###
 
