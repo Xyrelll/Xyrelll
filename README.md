@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgithub&psig=AOvVaw2t1gOJ0xYxcpImCg-quK3A&ust=1761632625706000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiW24Tfw5ADFQAAAAAdAAAAABAE)"  />
 
 ###
 
@@ -36,4 +36,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xyrelll.Xyrelll&"  />
+</div>
 
+###
